@@ -2,8 +2,6 @@
 
 A professional-grade AI-powered resume analysis tool that provides brutal, honest feedback to help job seekers improve their resumes and increase their chances of getting interviews.
 
-![ResumAI Banner](https://img.shields.io/badge/ResumAI-AI%20Powered-blue?style=for-the-badge&logo=react)
-
 ## 🚀 Features
 
 ### 🤖 AI-Powered Analysis
