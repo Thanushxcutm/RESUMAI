@@ -1,0 +1,5 @@
+{
+  "name": "Smart Resume Analyzer",
+  "description": "An AI-powered tool that analyzes your resume, extracts key skills, suggests job roles, and provides actionable improvement tips with an overall score.",
+  "requestFramePermissions": []
+}
